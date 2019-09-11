@@ -1,0 +1,1 @@
+DELETE Customer where FirstName ='Joey'

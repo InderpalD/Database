@@ -1,0 +1,1 @@
+SELECT Age FROM Customer WHERE FirstName='Lebron' and LastName='James';
